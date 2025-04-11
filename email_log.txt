@@ -1,0 +1,4 @@
+2025-04-10 10:31:51,176 - SMTP error for Precious Tendayi (recipient1@example.com): (334, b'UGFzc3dvcmQ6')
+2025-04-10 10:31:54,511 - SMTP error for Nicole Zonke (recipient2@example.com): (334, b'UGFzc3dvcmQ6')
+2025-04-10 10:31:57,797 - SMTP error for Simbarashe Blessed (recipient3@example.com): (334, b'UGFzc3dvcmQ6')
+
